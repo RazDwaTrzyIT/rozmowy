@@ -1,4 +1,9 @@
-# Tematy najbliższych rozmów
+# Raz Dwa Trzy IT
+## Przydatne linki
+* [Slack RazDwaTrzyIT](https://razdwatrzyit.slack.com)
+
+  
+## Tematy najbliższych rozmów
 
 | Data       | Temat                                                        | Moderator            | Opis                                                                                    |
 |------------|--------------------------------------------------------------|----------------------|-----------------------------------------------------------------------------------------|
